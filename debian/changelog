@@ -1,3 +1,13 @@
+twitter-bootstrap3 (3.4.1+dfsg-3) unstable; urgency=medium
+
+  [ Yadd ]
+  * Update lintian override info format in d/source/lintian-overrides on line 2-3, 6-8.
+  * Update standards version to 4.6.1, no changes needed.
+  * Replace /releases by /tags in GitHub urls
+  * Fix version in debian/watch
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 17 Dec 2022 23:30:51 +0000
+
 twitter-bootstrap3 (3.4.1+dfsg-2) unstable; urgency=medium
 
   [ Xavier Guimard ]

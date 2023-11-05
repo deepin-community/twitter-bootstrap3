@@ -1,6 +1,6 @@
 Source: twitter-bootstrap3
 Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
-Uploaders: Xavier Guimard <yadd@debian.org>
+Uploaders: Yadd <yadd@debian.org>
 Section: javascript
 Priority: optional
 Build-Depends:
@@ -11,7 +11,7 @@ Build-Depends:
  node-source-map,
  uglifyjs,
  pandoc <!nodoc>,
-Standards-Version: 4.5.1
+Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/js-team/twitter-bootstrap3
 Vcs-Git: https://salsa.debian.org/js-team/twitter-bootstrap3.git
 Homepage: https://getbootstrap.com/
