@@ -1,3 +1,12 @@
+twitter-bootstrap3 (3.4.1+dfsg-3deepin1) unstable; urgency=medium
+
+  * Team upload.
+  * Add patch to fix CVE-2024-6485, CVE-2025-1647:
+    XSS vulnerability in button.js data-loading-text attribute.
+    (Closes: #1084060, #1105899)
+
+ -- deepin-ci-robot <packages@deepin.org>  Tue, 27 May 2025 02:15:00 +0800
+
 twitter-bootstrap3 (3.4.1+dfsg-3) unstable; urgency=medium
 
   [ Yadd ]
